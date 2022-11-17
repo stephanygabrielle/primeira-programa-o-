@@ -1,6 +1,6 @@
 
 body {
-    background: #F8BBD0
+    background: #e220e9
 }
 #banner {
 
@@ -8,11 +8,11 @@ body {
 }
 
 .principal {
-  background: #c9da8c;
+  background: #b47acf;
 }
 h1 {
     text-align: center;
-    border: 5px solid #d8ff2b
+    border: 5px solid #ea9cfd
     padding: 15px;
 }
 
@@ -33,6 +33,6 @@ em strong {
 }
 
 .beneficios {
-    background: #e8f5ad;
+    background: #654b75;
 }
   
